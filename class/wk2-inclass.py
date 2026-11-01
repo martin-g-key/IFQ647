@@ -1,11 +1,1 @@
-"""
-Alice.
-- read a text file, 
-- tokenise into sentences, 
-- tokenise sentences into words,
-- list of list where inner list is a list of words
-- CBOW Word2Vec model
-- Compute semantic similarity between:
-    "Alice" and "Machines"
-"""
-
+T = {US, BILL, ECONOM, ESPIONAG, GERMAN, MAN, VW, SPY} = {d1, d2, d3, d4, d5, d6, d7, d8}
